@@ -1,4 +1,4 @@
-### Hi there 👋, Hello my Name is Andres Oberhelman
+### Hi there 👋,  my Name is Andres Oberhelman
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator]
 
