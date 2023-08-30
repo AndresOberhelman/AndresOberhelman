@@ -1,5 +1,5 @@
 ### Hi there 👋,  my Name is Andres Oberhelman
-and I am from New Orleans, Louisiana and I currently attend LSU as a computer science student at LSU with an interest in full-stack development. 
+and I am from New Orleans, Louisiana and I am a LSU computer science graduate.
 
 Skills:  / REACT / JS / HTML / CSS / JAVA / PYTHON / C++ / MONGODB / 
 
